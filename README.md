@@ -1,6 +1,6 @@
 ### Oi turma!! Eu sou o Eduardo Lauer 👋
 
-- 📒 Estudando Python
+- 📒 Estudando Python e JavaScript
 - 👨‍💻 Em busca do meu lugarzinho como Dev (: 
 - 💬 Pergunte-me sobre Formula 1 🏎️
 - 📫 Contate-me no email: lauer.edu@gmail.com
