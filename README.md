@@ -1,7 +1,7 @@
 ### Oi turma!! Eu sou o Eduardo Lauer 👋
 
 - 📒 Estudando Python e JavaScript
-- 👨‍💻 Em busca do meu lugarzinho como Dev (: 
+- 👨‍💻 Em busca do meu lugarzinho como Software Developer (: 
 - 💬 Pergunte-me sobre Formula 1 🏎️
 - 📫 Contate-me no email: lauer.edu@gmail.com
 - 😄 Pronouns: ele/dele
